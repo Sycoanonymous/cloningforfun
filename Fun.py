@@ -11,22 +11,7 @@ print(logo)
 name=input("What is your name? ")
 print("Wellcome2_hackers_worlds"+name)
 
-def lisensi():
-    os.system('clear')
-    login()
 
-
-def login():
-    print logo
-    tik()
-    os.system('clear')
-    print logo
-    time.sleep(5)
-    os.system('clear')
-    print logo
-    tik()
-    os.system('clear')
-    print logo
     print '\x1b[1;0m--------------------------------------------------'
     print '\x1b[1;92m[1] \x1b[1;32mCLONING MENU'
     print '\x1b[1;0m--------------------------------------------------'
